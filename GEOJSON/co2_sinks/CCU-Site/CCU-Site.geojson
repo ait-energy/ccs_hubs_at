@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CCU-Site",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "OMV Burghausen" }, "geometry": { "type": "Point", "coordinates": [ 12.8297735760889, 48.193284316074802 ] } },
+{ "type": "Feature", "properties": { "Name": "OMV Schwechat" }, "geometry": { "type": "Point", "coordinates": [ 16.494767679147301, 48.1480650517342 ] } }
+]
+}

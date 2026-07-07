@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Inland-Port",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Ölhafen Lobau" }, "geometry": { "type": "Point", "coordinates": [ 16.513581886705101, 48.1677009246987 ] } },
+{ "type": "Feature", "properties": { "Name": "Tankafen Linz" }, "geometry": { "type": "Point", "coordinates": [ 14.3306256540384, 48.293396285204601 ] } },
+{ "type": "Feature", "properties": { "Name": "Hafen Linz" }, "geometry": { "type": "Point", "coordinates": [ 14.3193128612427, 48.313676157206203 ] } }
+]
+}

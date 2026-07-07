@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "Train-Station",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Bahnhof Attnang-Puchheim" }, "geometry": { "type": "Point", "coordinates": [ 13.720948841884899, 48.012556493686198 ] } },
+{ "type": "Feature", "properties": { "Name": "Bahnhof Kremsmünster" }, "geometry": { "type": "Point", "coordinates": [ 14.139948839759301, 48.053190588366498 ] } },
+{ "type": "Feature", "properties": { "Name": "Bahnhof Gleisdorf" }, "geometry": { "type": "Point", "coordinates": [ 15.7034206441606, 47.105395442893503 ] } },
+{ "type": "Feature", "properties": { "Name": "Hub Linz" }, "geometry": { "type": "Point", "coordinates": [ 14.316031508079201, 48.301612880111897 ] } },
+{ "type": "Feature", "properties": { "Name": "Hub Gänserndorf" }, "geometry": { "type": "Point", "coordinates": [ 16.7347230970006, 48.340690496887099 ] } },
+{ "type": "Feature", "properties": { "Name": "Hub Lobau" }, "geometry": { "type": "Point", "coordinates": [ 16.503959693584601, 48.170528174577598 ] } }
+]
+}

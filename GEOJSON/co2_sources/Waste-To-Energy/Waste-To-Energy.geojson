@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Waste-To-Energy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Abfallverwertungsanlage MVA Dürnrohr" }, "geometry": { "type": "Point", "coordinates": [ 15.9283736, 48.3269021 ] } },
+{ "type": "Feature", "properties": { "Name": "Energie AG Oberösterreich Umwelt Service GmbH Wels" }, "geometry": { "type": "Point", "coordinates": [ 14.0735935, 48.1701494 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Wien Energie GmbH Simmering" }, "geometry": { "type": "Point", "coordinates": [ 16.4587831, 48.1744385 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Wien Energie GmbH Pfaffenau" }, "geometry": { "type": "Point", "coordinates": [ 16.4587518, 48.1766332 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Wien Energie GmbH Spittelau" }, "geometry": { "type": "Point", "coordinates": [ 16.358385, 48.2336111 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Fernheizkraftwerk Linz-Mitte" }, "geometry": { "type": "Point", "coordinates": [ 14.3230490883677, 48.298971223697599 ] } },
+{ "type": "Feature", "properties": { "Name": "EEVG Entsorgungs- und Energiever- wertungsgesellschaft m.b.H." }, "geometry": { "type": "Point", "coordinates": [ 13.7976684, 47.9965461 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Wien Energie GmbH Flötzersteig" }, "geometry": { "type": "Point", "coordinates": [ 16.2899056, 48.2064525 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Zistersdorf" }, "geometry": { "type": "Point", "coordinates": [ 16.7820796, 48.5484226 ] } },
+{ "type": "Feature", "properties": { "Name": "Energie AG Oberösterreich Erzeugung GmbH Timelkam" }, "geometry": { "type": "Point", "coordinates": [ 13.5877273, 48.0126133 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA KRV Arnoldstein" }, "geometry": { "type": "Point", "coordinates": [ 13.6909967, 46.5564014 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Lenzing" }, "geometry": { "type": "Point", "coordinates": [ 13.613007231567099, 47.985594138250903 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA ABRG Arnoldstein" }, "geometry": { "type": "Point", "coordinates": [ 13.6911599, 46.5535245 ] } },
+{ "type": "Feature", "properties": { "Name": "MVA Graz (geplant)" }, "geometry": { "type": "Point", "coordinates": [ 15.4377959780309, 47.047209161945602 ] } }
+]
+}

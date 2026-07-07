@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Biomass-Plant",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Biomasseheizkraftwerk Klagenfurt Ost" }, "geometry": { "type": "Point", "coordinates": [ 14.3670027, 46.6198586 ] } },
+{ "type": "Feature", "properties": { "Name": "Kraftwerk Simmering Biomasse" }, "geometry": { "type": "Point", "coordinates": [ 16.4597641, 48.1738138 ] } },
+{ "type": "Feature", "properties": { "Name": "Energie AG Kraftwerk Timelkam II" }, "geometry": { "type": "Point", "coordinates": [ 13.589170840832301, 48.0126256904218 ] } },
+{ "type": "Feature", "properties": { "Name": "TIWAG - Lienz" }, "geometry": { "type": "Point", "coordinates": [ 12.797688028699501, 46.822706146386203 ] } },
+{ "type": "Feature", "properties": { "Name": "Biomasseheizkraftwerk Klagenfurt Nord" }, "geometry": { "type": "Point", "coordinates": [ 14.281757, 46.7357138 ] } },
+{ "type": "Feature", "properties": { "Name": "Biomasseheizkraftwerk Steyr" }, "geometry": { "type": "Point", "coordinates": [ 14.4559822, 48.0656527 ] } },
+{ "type": "Feature", "properties": { "Name": "EVN FHKW Mödling" }, "geometry": { "type": "Point", "coordinates": [ 16.297638437506201, 48.084740537571101 ] } },
+{ "type": "Feature", "properties": { "Name": "EVN FHW Baden" }, "geometry": { "type": "Point", "coordinates": [ 16.261190883779999, 47.9925260655694 ] } },
+{ "type": "Feature", "properties": { "Name": "Biomasseheizkraftwerk Hall in Tirol" }, "geometry": { "type": "Point", "coordinates": [ 11.503313698372001, 47.2781381311476 ] } },
+{ "type": "Feature", "properties": { "Name": "Bioenergie Kufstein" }, "geometry": { "type": "Point", "coordinates": [ 12.1452647962528, 47.565256057755299 ] } },
+{ "type": "Feature", "properties": { "Name": "Energie Steiermark - FWZ Voitsberg" }, "geometry": { "type": "Point", "coordinates": [ 15.1344585830391, 47.054450811079001 ] } },
+{ "type": "Feature", "properties": { "Name": "Energie Klagenfurt GmbH Heizwerk Süd" }, "geometry": { "type": "Point", "coordinates": [ 14.3055983616796, 46.602307655611703 ] } },
+{ "type": "Feature", "properties": { "Name": "Kelag Wärme Prolactal Hartberg" }, "geometry": { "type": "Point", "coordinates": [ 15.989892569315399, 47.280650576686298 ] } },
+{ "type": "Feature", "properties": { "Name": "Biomasse Heizkraftwerk Siezenheim II" }, "geometry": { "type": "Point", "coordinates": [ 12.9800812, 47.8193796 ] } },
+{ "type": "Feature", "properties": { "Name": "Biomasse-Heizwerk St. Agathen" }, "geometry": { "type": "Point", "coordinates": [ 13.8717215, 46.6099178 ] } }
+]
+}

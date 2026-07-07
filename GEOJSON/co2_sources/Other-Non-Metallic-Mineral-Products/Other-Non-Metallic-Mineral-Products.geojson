@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Other-Non-Metallic-Mineral-Products",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Lafarge Perlmooser Mannersdorf" }, "geometry": { "type": "Point", "coordinates": [ 16.602669967444498, 47.982147686611597 ] } },
+{ "type": "Feature", "properties": { "Name": "Wietersdorfer & Peggauer Zement Wietersdorf" }, "geometry": { "type": "Point", "coordinates": [ 14.5341914619422, 46.848748916342302 ] } },
+{ "type": "Feature", "properties": { "Name": "Leube Zement GmbH - Zementwerk" }, "geometry": { "type": "Point", "coordinates": [ 13.0421888908797, 47.727374410336402 ] } },
+{ "type": "Feature", "properties": { "Name": "Lafarge Perlmooser Retznei" }, "geometry": { "type": "Point", "coordinates": [ 15.572322208111601, 46.735824587641098 ] } },
+{ "type": "Feature", "properties": { "Name": "Zementwerk Wopfing" }, "geometry": { "type": "Point", "coordinates": [ 16.085459547910599, 47.873660094719099 ] } },
+{ "type": "Feature", "properties": { "Name": "voestalpine Stahl GmbH - Kalkwerk Steyrling" }, "geometry": { "type": "Point", "coordinates": [ 14.1594728217691, 47.806659750740302 ] } },
+{ "type": "Feature", "properties": { "Name": "Zementwerk Hatschek GmbH" }, "geometry": { "type": "Point", "coordinates": [ 13.776048303526199, 47.920869015583101 ] } },
+{ "type": "Feature", "properties": { "Name": "Kirchdorfer Zementwerk Hofmann GmbH" }, "geometry": { "type": "Point", "coordinates": [ 14.1172190116199, 47.907281136038002 ] } },
+{ "type": "Feature", "properties": { "Name": "Schretter & Cie (Zement) Vils" }, "geometry": { "type": "Point", "coordinates": [ 10.6374979962519, 47.551826596912299 ] } },
+{ "type": "Feature", "properties": { "Name": "Kalkwerk Wopfing" }, "geometry": { "type": "Point", "coordinates": [ 16.085298550618599, 47.873809993590498 ] } },
+{ "type": "Feature", "properties": { "Name": "Veitsch-Radex Hochfilzen" }, "geometry": { "type": "Point", "coordinates": [ 12.6307901753444, 47.469594127177302 ] } },
+{ "type": "Feature", "properties": { "Name": "InterCal Austria - Kalkwerk Peggau" }, "geometry": { "type": "Point", "coordinates": [ 15.344470690507301, 47.214901102507497 ] } },
+{ "type": "Feature", "properties": { "Name": "Leube Zement GmbH - Kalkwerk" }, "geometry": { "type": "Point", "coordinates": [ 13.179075195137999, 47.577673881412103 ] } },
+{ "type": "Feature", "properties": { "Name": "Veitsch-Radex Radenthein" }, "geometry": { "type": "Point", "coordinates": [ 13.6923538194806, 46.798788535648903 ] } }
+]
+}
