@@ -1,0 +1,13 @@
+{
+  "circle-radius": 6,
+  "circle-fill-color": "#1976d2",
+  "circle-stroke-color": "white",
+  "circle-stroke-width": 2,
+
+  "text-value": ["get", "name"],
+  "text-font": "13px sans-serif",
+  "text-fill-color": "#222222",
+  "text-stroke-color": "white",
+  "text-stroke-width": 3,
+  "text-offset-y": -15
+}
