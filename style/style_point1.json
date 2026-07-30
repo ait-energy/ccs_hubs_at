@@ -4,7 +4,7 @@
   "circle-stroke-color": "white",
   "circle-stroke-width": 2,
 
-  "text-value": ["get", "name"],
+  "text-value": ["get", "Name"],
   "text-font": "13px sans-serif",
   "text-fill-color": "#222222",
   "text-stroke-color": "white",
