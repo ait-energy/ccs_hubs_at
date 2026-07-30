@@ -1,6 +1,5 @@
 {
-  "fill-color": "grey",
-  "fill-opacity": 0.5,
+  "fill-color": "rgba(211, 211, 211, 0.5)",
   "stroke-color": "black",
   "stroke-width": 1
 }
