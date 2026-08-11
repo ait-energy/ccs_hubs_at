@@ -1,4 +1,9 @@
 {
+  "circle-radius": 6,
+  "circle-fill-color": "blue",
+  "circle-stroke-color": "white",
+  "circle-stroke-width": 2,
+
   "text-value": "⚓",
   "text-font": "16px sans-serif",
   "text-fill-color": "black",
