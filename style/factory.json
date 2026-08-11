@@ -1,0 +1,12 @@
+{
+  "circle-radius": 6,
+  "circle-fill-color": "blue",
+  "circle-stroke-color": "white",
+  "circle-stroke-width": 2,
+
+  "text-value": "🏭",
+  "text-font": "36px Arial",
+  "text-fill-color": "black",
+  "text-stroke-color": "white",
+  "text-stroke-width": 3
+}
